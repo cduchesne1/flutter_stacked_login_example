@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_starter_template">
+    package="com.example.flutter_stacked_login_example">
    <application
-        android:label="flutter_starter_template"
+        android:label="flutter_stacked_login_example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

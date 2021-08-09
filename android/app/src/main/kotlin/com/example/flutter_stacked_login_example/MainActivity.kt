@@ -1,4 +1,4 @@
-package com.example.flutter_starter_template
+package com.example.flutter_stacked_login_example
 
 import io.flutter.embedding.android.FlutterActivity
 
