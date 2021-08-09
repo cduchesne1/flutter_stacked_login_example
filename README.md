@@ -13,6 +13,10 @@ Here is the procedure to run the application:
 - Start your desired simulator or connect your device
 - Run ```flutter run```
 
+The credentials to connect to the app are:
+- Email: test@email.com
+- Password: password
+
 ## Package used
 
 [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons): Command-line tool that make updating the app's launcher icon easy.
